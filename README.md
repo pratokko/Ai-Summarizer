@@ -1,5 +1,7 @@
 # Ai-Summarizer - Summarize articles and websites with Sumz
 
+post an article you want to summarize and this ai tool will summarize it in a way you understand easily
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
